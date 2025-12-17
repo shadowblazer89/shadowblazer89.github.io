@@ -1,0 +1,104 @@
+You are a senior product designer and full-stack engineer.
+
+Build a modern, cutting-edge personal website for me that looks professional, polished, and portfolio-ready. This site should feel like a top-tier computer science / AI / security engineer’s personal brand — clean, confident, and technically impressive without being flashy.
+
+TECH STACK
+- Framework: Next.js (App Router)
+- Styling: Tailwind CSS
+- Animations: Framer Motion (subtle, elegant)
+- Icons: Lucide Icons
+- Font: Inter or similar modern sans-serif
+- Dark mode support (default to dark)
+
+SITE GOALS
+- Personal branding
+- Resume showcase
+- Project portfolio
+- Research + engineering credibility
+- Internship / recruiter ready
+
+PAGES & SECTIONS
+
+1. LANDING / HERO SECTION
+- Full screen hero
+- Left: Name, title (e.g. “Computer Science Student | AI & Security Engineer”)
+- Short 1–2 sentence mission statement
+- CTA buttons:
+  - “View Projects”
+  - “Download Resume”
+- Right: Professional profile image (use a placeholder image component for now)
+- Subtle animated background or gradient mesh
+
+2. ABOUT ME
+- Concise professional bio
+- Emphasize:
+  - CS background
+  - AI / ML systems
+  - Security & offensive security coursework
+  - Android & multimodal ML work
+- Clean two-column layout
+
+3. EXPERIENCE
+- Timeline or card-based layout
+- Roles such as:
+  - Software Engineer / Intern
+  - Research projects
+  - Major academic projects
+- Each entry:
+  - Title
+  - Organization
+  - Tech stack
+  - 1–2 impact bullets
+
+4. PROJECTS
+- Grid of modern project cards
+- Each card includes:
+  - Project title
+  - Short description
+  - Tech stack tags
+  - GitHub link button
+- Highlight advanced projects:
+  - Android ML apps
+  - AI / GenAI systems
+  - Security tools
+  - Research prototypes
+
+5. SKILLS
+- Categorized skills:
+  - Languages
+  - Frameworks
+  - ML / AI
+  - Security
+  - Cloud / Tools
+- Display as clean pill badges or icon grid
+
+6. RESEARCH / PUBLICATIONS (Optional Section)
+- Academic-style layout
+- Papers, posters, or major research efforts
+
+7. CONTACT
+- Email
+- GitHub
+- LinkedIn
+- Simple contact form (no backend needed)
+
+DESIGN REQUIREMENTS
+- Minimalist, modern, Apple-level polish
+- No clutter
+- Plenty of whitespace
+- Smooth micro-interactions
+- Professional color palette (charcoal, slate, subtle accent color like royal blue or violet)
+
+IMPLEMENTATION DETAILS
+- Use reusable components
+- Responsive across mobile, tablet, desktop
+- Accessible (proper contrast, semantic HTML)
+- Include placeholder resume PDF and profile image paths so I can replace them easily
+
+OUTPUT
+- Generate the full Next.js project structure
+- Include Tailwind config
+- Include example data objects for projects and experience
+- Code should be production-quality and clean
+
+Do NOT include explanations — just build the site.
