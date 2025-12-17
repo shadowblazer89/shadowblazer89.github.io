@@ -29,7 +29,7 @@ import { Form, FormControl, FormField, FormItem, FormMessage } from "@/component
 import { ThemeToggle } from "@/components/theme-toggle";
 import { useToast } from "@/hooks/use-toast";
 import { apiRequest } from "@/lib/queryClient";
-import profileImage from "@assets/WIN_20220304_12_49_34_Pro_1766002029013.jpg";
+import profileImage from "@assets/image11.jpg";
 
 const contactFormSchema = z.object({
   name: z.string().min(2, "Name must be at least 2 characters"),
